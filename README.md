@@ -1,6 +1,6 @@
 # a11y-prism-theme
 
-Accessible light and dark themes for the [prism.js](http://prismjs.com/) syntax highlighting library.
+Accessible light and dark themes for the [Prism.js](http://prismjs.com/) syntax highlighting library.
 
 
 ## a11y-dark
