@@ -1,4 +1,4 @@
-# a11y-prism-theme
+# a11y-syntax-highlighting
 
 Accessible light and dark themes for the [Prism.js](http://prismjs.com/) syntax highlighting library.
 
@@ -47,5 +47,5 @@ Both themes have enhanced support for [Windows High Contrast Mode](https://suppo
 
 
 ## Thanks
-- [Lea Verou](http://lea.verou.me/), for making the awesome prism.js library.
+- [Lea Verou](http://lea.verou.me/), for making the awesome Prism.js library.
 - Michael Ball, for the idea.
