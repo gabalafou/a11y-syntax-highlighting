@@ -5,6 +5,8 @@ Accessible light and dark themes for the [prism.js](http://prismjs.com/) syntax 
 
 ## a11y-dark
 
+![The a11y-dark theme being applied to the HTML of the Prism.js website. Screenshot.](https://raw.githubusercontent.com/ericwbailey/a11y-prism-theme/master/images/a11y-dark.png)
+
 - Light text on a dark background.
 - Background color of `#2b2b2b`.
 - [WCAG AAA compliant](https://www.w3.org/TR/WCAG/#visual-audio-contrast-contrast) for color contrast.
@@ -20,6 +22,8 @@ Accessible light and dark themes for the [prism.js](http://prismjs.com/) syntax 
 
 
 ## a11y-light
+
+![The a11y-light theme being applied to the HTML of the Prism.js website. Screenshot.](https://raw.githubusercontent.com/ericwbailey/a11y-prism-theme/master/images/a11y-light.png)
 
 - Dark text on a light background.
 - Background color of `#fefefe`.
@@ -37,9 +41,11 @@ Accessible light and dark themes for the [prism.js](http://prismjs.com/) syntax 
 
 ## High Contrast Mode
 
-Both themes have enhanced support for [Windows High Contrast Mode](https://support.microsoft.com/en-us/help/13862/windows-use-high-contrast-mode).
+Both themes have enhanced support for [Windows High Contrast Mode](https://support.microsoft.com/en-us/help/13862/windows-use-high-contrast-mode):
+
+![The a11y-dark theme responding to Windows High Contrast Mode. Screenshot.](https://raw.githubusercontent.com/ericwbailey/a11y-prism-theme/master/images/a11y-high-contrast-mode.png)
 
 
 ## Thanks
-- [Lea Verou](http://lea.verou.me/), for making the awesome prism.js .library
+- [Lea Verou](http://lea.verou.me/), for making the awesome prism.js library.
 - Michael Ball, for the idea.
