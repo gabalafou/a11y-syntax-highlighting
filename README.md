@@ -1,9 +1,29 @@
 # a11y-syntax-highlighting
 
-Accessible light and dark themes for the [Prism.js](http://prismjs.com/) syntax highlighting library.
+Accessible light and dark syntax highlighting themes. 
+
+## Support
+
+### Libraries
+
+- [Highlight.js](https://highlightjs.org/)
+- [Prism.js](http://prismjs.com/)
+
+### Roadmap
+
+- Libraries
+    - [Rainbow](https://craig.is/making/rainbows)
+    - [SyntaxHighlighter](http://www.syntaxhighlighter.com/SyntaxHighlighter/)
+- Editors
+    - [Atom](https://atom.io/)
+    - [Microsoft Visual Studio Code](https://code.visualstudio.com/)
+    - [Sublime Text](https://www.sublimetext.com/)
+    - [Vi/Vim](http://www.vim.org/)
 
 
-## a11y-dark
+## Themes 
+
+### a11y-dark
 
 ![The a11y-dark theme being applied to the HTML of the Prism.js website. Screenshot.](https://raw.githubusercontent.com/ericwbailey/a11y-prism-theme/master/images/a11y-dark.png)
 
@@ -17,11 +37,12 @@ Accessible light and dark themes for the [Prism.js](http://prismjs.com/) syntax 
 | [Chino](http://chir.ag/projects/name-that-color/#D4D0AB) | `#d4d0ab` | [9.04:1](https://webaim.org/resources/contrastchecker/?fcolor=D4D0AB&bcolor=2B2B2B) | AAA | AAA |
 | [Conifer](http://chir.ag/projects/name-that-color/#ABE338) | `#abe338` | [9.29:1](https://webaim.org/resources/contrastchecker/?fcolor=ABE338&bcolor=2B2B2B) | AAA | AAA |
 | [Gold](http://chir.ag/projects/name-that-color/#FFD700) | `#ffD700` | [10.09:1](https://webaim.org/resources/contrastchecker/?fcolor=FFD700&bcolor=2B2B2B) | AAA | AAA |
+| [Snuff](http://chir.ag/projects/name-that-color/#DCC6E0) | `#dcc6e0` | [8.90:1](https://webaim.org/resources/contrastchecker/?fcolor=DCC6E0&bcolor=2B2B2B) | AAA | AAA |
 | [Spring Wood](http://chir.ag/projects/name-that-color/#F8F8F2) | `#f8f8f2` | [13.28:1](https://webaim.org/resources/contrastchecker/?fcolor=F8F8F2&bcolor=2B2B2B) | AAA | AAA |
 | [Vivid Tangerine](http://chir.ag/projects/name-that-color/#FFA07A) | `#ffa07a` | [7.12:1](https://webaim.org/resources/contrastchecker/?fcolor=FFA07A&bcolor=2B2B2B) | AAA | AAA |
 
 
-## a11y-light
+### a11y-light
 
 ![The a11y-light theme being applied to the HTML of the Prism.js website. Screenshot.](https://raw.githubusercontent.com/ericwbailey/a11y-prism-theme/master/images/a11y-light.png)
 
@@ -39,7 +60,7 @@ Accessible light and dark themes for the [Prism.js](http://prismjs.com/) syntax 
 | [Thunderbird](http://chir.ag/projects/name-that-color/#D91E18) | `#d91e18` | [5.02:1](https://webaim.org/resources/contrastchecker/?fcolor=D91E18&bcolor=FEFEFE) | AA | AAA |
 
 
-## High Contrast Mode
+### High Contrast Mode
 
 Both themes have enhanced support for [Windows High Contrast Mode](https://support.microsoft.com/en-us/help/13862/windows-use-high-contrast-mode):
 
@@ -47,5 +68,6 @@ Both themes have enhanced support for [Windows High Contrast Mode](https://suppo
 
 
 ## Thanks
-- [Lea Verou](http://lea.verou.me/), for making the awesome Prism.js library.
-- Michael Ball, for the idea.
+
+- [Michael Ball](https://github.com/cycomachead), for the idea.
+- [Scott Vinkle](https://github.com/svinkle), [Carie Fischer](https://github.com/cehfisher), and [Scott O'Hara](https://github.com/scottaohara) for the encouragement. 
