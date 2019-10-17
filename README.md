@@ -12,6 +12,7 @@ Accessible light and dark syntax highlighting themes.
 ### Applications
 
 - [Adobe](https://helpx.adobe.com/illustrator/using/using-creating-swatches.html)
+- [Figma](https://www.figma.com/) (drag SVGs onto your canvas)
 - [macOS](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/DrawColor/Concepts/AboutColorLists.html)
 - [Sketch](https://www.sketchapp.com/) (uses the [Sketch Palettes plugin](https://github.com/andrewfiorillo/sketch-palettes))
 
@@ -73,7 +74,7 @@ Accessible light and dark syntax highlighting themes.
 
 ### High Contrast Mode
 
-Both themes have enhanced support for [Windows High Contrast Mode](https://support.microsoft.com/en-us/help/13862/windows-use-high-contrast-mode):
+Both themes have enhanced support for [Windows High Contrast Mode](https://support.microsoft.com/en-us/help/13862/windows-use-high-contrast-mode) when possible:
 
 ![The a11y-dark theme responding to Windows High Contrast Mode. Screenshot.](https://raw.githubusercontent.com/ericwbailey/a11y-prism-theme/master/images/a11y-high-contrast-mode.png)
 
