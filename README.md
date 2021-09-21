@@ -1,6 +1,6 @@
 # a11y-syntax-highlighting
 
-Accessible light and dark syntax highlighting themes. 
+Accessible light and dark syntax highlighting themes.
 
 ## Support
 
@@ -8,6 +8,8 @@ Accessible light and dark syntax highlighting themes.
 
 - [Highlight.js](https://highlightjs.org/)
 - [Prism.js](http://prismjs.com/)
+    - [Line Highlight](https://prismjs.com/plugins/line-highlight/)
+    - [Line Numbers](https://prismjs.com/plugins/line-numbers/)
 
 ### Applications
 
@@ -23,17 +25,13 @@ Accessible light and dark syntax highlighting themes.
 
 ### Roadmap
 
-- Libraries
-    - [Rainbow](https://craig.is/making/rainbows)
-    - [SyntaxHighlighter](http://www.syntaxhighlighter.com/SyntaxHighlighter/)
 - Editors
-    - [Atom](https://atom.io/)
     - [Microsoft Visual Studio Code](https://code.visualstudio.com/)
     - [Sublime Text](https://www.sublimetext.com/)
     - [Vi/Vim](http://www.vim.org/)
 
 
-## Themes 
+## Themes
 
 ### a11y-dark
 
@@ -65,7 +63,7 @@ Accessible light and dark syntax highlighting themes.
 | Color | Hex | Ratio | Normal Text | Large Text |
 | :---- | :-- | ----: | :---------- | :--------- |
 | [Chelsea Gem](http://chir.ag/projects/name-that-color/#AA5D00) | `#aa5d00` | [4.87:1](d) | AA | AAA |
-| [Deep Cerulean](http://chir.ag/projects/name-that-color/#007FAA) | `#007faa` | [4.51:1](https://webaim.org/resources/contrastchecker/?fcolor=007FAA&bcolor=FEFEFE) | AA | AAA |
+| [Allports](http://chir.ag/projects/name-that-color/#007299) | `#007299` | [4.51:1](https://webaim.org/resources/contrastchecker/?fcolor=007299&bcolor=FEFEFE) | AA | AAA |
 | [Dove Gray](http://chir.ag/projects/name-that-color/#696969) | `#696969` | [5.44:1](https://webaim.org/resources/contrastchecker/?fcolor=696969&bcolor=FEFEFE) | AA | AAA |
 | [Emperor](http://chir.ag/projects/name-that-color/#545454) | `#545454` | [7.51:1](https://webaim.org/resources/contrastchecker/?fcolor=545454&bcolor=FEFEFE) | AAA | AAA |
 | [Japanese Laurel](http://chir.ag/projects/name-that-color/#008000) | `#008000` | [5.09:1](https://webaim.org/resources/contrastchecker/?fcolor=008000&bcolor=FEFEFE) | AA | AAA |
@@ -78,8 +76,16 @@ Both themes have enhanced support for [Windows High Contrast Mode](https://suppo
 
 ![The a11y-dark theme responding to Windows High Contrast Mode. Screenshot.](https://raw.githubusercontent.com/ericwbailey/a11y-prism-theme/master/images/a11y-high-contrast-mode.png)
 
+## Used by
+
+- [Eleventy](https://www.11ty.dev/docs/)
+- [Sarah Higley](https://sarahmhigley.com/writing/)
+- [W3C Design System](https://design-system.w3.org/)
+
+Run across it being used elsewhere? [Let me know](https://ericwbailey.design#contact)!
 
 ## Thanks
 
 - [Michael Ball](https://github.com/cycomachead), for the idea.
-- [Scott Vinkle](https://github.com/svinkle), [Carie Fischer](https://github.com/cehfisher), and [Scott O'Hara](https://github.com/scottaohara) for the encouragement. 
+- [Scott Vinkle](https://github.com/svinkle), [Carie Fischer](https://github.com/cehfisher), and [Scott O'Hara](https://github.com/scottaohara) for the encouragement.
+- [Aaron Gustafson](https://github.com/aarongustafson), for suggesting line highlighting support.
