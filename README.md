@@ -81,6 +81,7 @@ Both themes have enhanced support for [Windows High Contrast Mode](https://suppo
 - [Eleventy](https://www.11ty.dev/docs/)
 - [Paul Kinchla](https://paulkinchla.com/blog/)
 - [Sarah Higley](https://sarahmhigley.com/writing/)
+- [Quarto](https://quarto.org/docs/output-formats/html-code.html#highlighting)
 - [W3C Design System](https://design-system.w3.org/)
 
 Run across it being used elsewhere? [Let me know](https://ericwbailey.design#contact)!
