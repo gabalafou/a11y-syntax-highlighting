@@ -92,3 +92,4 @@ Run across it being used elsewhere? [Let me know](https://ericwbailey.design#con
 - [Michael Ball](https://github.com/cycomachead), for the idea.
 - [Scott Vinkle](https://github.com/svinkle), [Carie Fischer](https://github.com/cehfisher), and [Scott O'Hara](https://github.com/scottaohara) for the encouragement.
 - [Aaron Gustafson](https://github.com/aarongustafson), for suggesting line highlighting support.
+- [Reuben L. Lillie](https://reubenlillie.com/), for Vi/Vim support.
