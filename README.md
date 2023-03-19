@@ -79,6 +79,7 @@ Both themes have enhanced support for [Windows High Contrast Mode](https://suppo
 ## Used by
 
 - [Eleventy](https://www.11ty.dev/docs/)
+- [Melanie Richards](https://melanie-richards.com/)
 - [Paul Kinchla](https://paulkinchla.com/blog/)
 - [Sarah Higley](https://sarahmhigley.com/writing/)
 - [Quarto](https://quarto.org/docs/output-formats/html-code.html#highlighting)
