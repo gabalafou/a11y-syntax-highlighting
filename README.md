@@ -85,6 +85,7 @@ Both themes have enhanced support for [Windows High Contrast Mode](https://suppo
 - [Quarto](https://quarto.org/docs/output-formats/html-code.html#highlighting)
 - [W3C Design System](https://design-system.w3.org/)
 - [aaron-gustafson.com](https://www.aaron-gustafson.com/)
+- [hidde.blog](https://hidde.blog/)
 
 Run across it being used elsewhere? [Let me know](https://ericwbailey.design#contact)!
 
