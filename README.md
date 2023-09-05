@@ -87,6 +87,7 @@ Both themes have enhanced support for [Windows High Contrast Mode](https://suppo
 - [aaron-gustafson.com](https://www.aaron-gustafson.com/)
 - [hidde.blog](https://hidde.blog/)
 - [Oddbird CSS Sandbox](https://css.oddbird.net/)
+- [cssnano](https://cssnano.co/)
 
 Run across it being used elsewhere? [Let me know](https://ericwbailey.design#contact)!
 
