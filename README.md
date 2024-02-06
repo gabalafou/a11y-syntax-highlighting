@@ -69,6 +69,8 @@ Accessible light and dark syntax highlighting themes.
 | [Japanese Laurel](http://chir.ag/projects/name-that-color/#008000) | `#008000` | [5.09:1](https://webaim.org/resources/contrastchecker/?fcolor=008000&bcolor=FEFEFE) | AA | AAA |
 | [Thunderbird](http://chir.ag/projects/name-that-color/#D91E18) | `#d91e18` | [5.02:1](https://webaim.org/resources/contrastchecker/?fcolor=D91E18&bcolor=FEFEFE) | AA | AAA |
 
+- `#aa5d00`
+- `#007299`
 
 ### High Contrast Mode
 
